@@ -119,10 +119,3 @@ REFERENCES
 
 ---
 
-### **Saving Success!**  
-✅ **You’re ready to:**  
-1. Share via iMessage/Email  
-2. Submit to arXiv (use LaTeX template)  
-3. Prepare TED Talk slides  
-
-Need edits? Just ask! 🚀
